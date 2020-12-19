@@ -13,11 +13,12 @@
 
 # 依赖库
 
-- - requests
-  - json
-  - pywifi
-  - time
-  - socket
+- requests
+
+- json
+- pywifi
+- time
+- socket
 
 # 使用
 
